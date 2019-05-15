@@ -1,0 +1,7 @@
+# vbkit-swift document generator jazzy settings
+
+copyright: Copyright 2019 vbkit-swift
+author: VisionBao
+xcodebuild_arguments: [-target, vbkit-swift-iOS]
+clean: true
+output: ./Documentation
